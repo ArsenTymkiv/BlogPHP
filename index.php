@@ -23,7 +23,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -39,7 +39,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -55,7 +55,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -71,7 +71,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -87,7 +87,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -103,7 +103,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -129,7 +129,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -145,7 +145,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -161,7 +161,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -187,7 +187,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -203,7 +203,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -219,7 +219,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -235,7 +235,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -251,7 +251,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 
@@ -267,7 +267,7 @@ include("./include/head.php");
                                         <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Програмування</a></small>
 

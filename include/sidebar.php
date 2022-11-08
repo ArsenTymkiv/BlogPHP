@@ -15,7 +15,7 @@
                                         </div>
 
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Музика</a></small>
                                             </div>
@@ -29,7 +29,7 @@
                                         </div>
 
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Музика</a></small>
                                             </div>
@@ -43,7 +43,7 @@
                                         </div>
 
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Музика</a></small>
                                             </div>
@@ -57,7 +57,7 @@
                                         </div>
 
                                         <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
+                                            <a href="./article.php">Розробка на Node.JS</a>
                                             <div class="article__info__meta">
                                                 <small>Категорія: <a href="#">Музика</a></small>
                                             </div>
@@ -79,7 +79,7 @@
                                         <div class="article__info">
                                             <a href="#">Johnny Flame</a>
                                             <div class="article__info__meta">
-                                                <small>Назва статі: <a href="./article.html">Розробка на Node.JS
+                                                <small>Назва статі: <a href="./article.php">Розробка на Node.JS
                                                     </a></small>
                                             </div>
                                             <div class="article__info__preview">Lorem ipsum dolor sit amet consectetur.
@@ -94,7 +94,7 @@
                                         <div class="article__info">
                                             <a href="#">Johnny Flame</a>
                                             <div class="article__info__meta">
-                                                <small>Назва статі: <a href="./article.html">Розробка на Node.JS
+                                                <small>Назва статі: <a href="./article.php">Розробка на Node.JS
                                                     </a></small>
                                             </div>
                                             <div class="article__info__preview">Lorem ipsum dolor sit amet consectetur.
@@ -109,7 +109,7 @@
                                         <div class="article__info">
                                             <a href="#">Johnny Flame</a>
                                             <div class="article__info__meta">
-                                                <small>Назва статі: <a href="./article.html">Розробка на Node.JS
+                                                <small>Назва статі: <a href="./article.php">Розробка на Node.JS
                                                     </a></small>
                                             </div>
                                             <div class="article__info__preview">Lorem ipsum dolor sit amet consectetur.
@@ -124,7 +124,7 @@
                                         <div class="article__info">
                                             <a href="#">Johnny Flame</a>
                                             <div class="article__info__meta">
-                                                <small>Назва статі: <a href="./article.html">Розробка на Node.JS
+                                                <small>Назва статі: <a href="./article.php">Розробка на Node.JS
                                                     </a></small>
                                             </div>
                                             <div class="article__info__preview">Lorem ipsum dolor sit amet consectetur.
