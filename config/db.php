@@ -12,4 +12,4 @@ if ($connection == false)
     echo "Connect db ERROR";
     echo mysqli_connect_error();
     exit();
-}
+} 
