@@ -1,79 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog</title>
-    <link rel="stylesheet" href="./media/css/reset.css">
-    <link rel="stylesheet" href="./media/css/style.css">
-    <!-- FONT -->
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
-
-    <!-- INCLUDE CSS -->
-
-    <!-- BOOTSTRAP -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
-    <!-- END BOOTSTRAP -->
-
-
-
-
-</head>
+<?php
+include("./include/head.php");
+?>
 
 <body>
     <div class="wrapper">
-        <header id="header">
-            <div class="header__top">
-                <div class="container">
-                    <div class="header__top__logo">
-                        <h1>Блог Programulka</h1>
-                    </div>
-                    <nav class="header__top__menu">
-                        <ul>
-                            <li><a href="/">Головна</a></li>
-                            <li><a href="#">Про мене</a></li>
-                            <li><a href="#">Instagram</a></li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-            <div class="header__bottom">
-                <div class="container">
-                    <nav>
-                        <ul>
-                            <li><a href="#">Безпека</a></li>
-                            <li class="dropdown"><a href="#">Програмування</a>
-                                <ul class="submenu">
-                                    <li><a href="#">Програмування</a></li>
-                                    <li class="dropdown-two"><a href="#">Безпека</a>
-                                        <ul class="submenu-two">
-                                            <li><a href="#">Безпека</a></li>
-                                            <li><a href="#">Безпека</a></li>
-                                            <li><a href="#">Безпека</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Безпека</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#">Lifestyle</a></li>
-                            <li><a href="#">Музика</a></li>
-                            <li><a href="#">Саморозвиток</a></li>
-                            <li><a href="#">Спорт</a></li>
-                            <li><a href="#">Їжа</a></li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-
-        </header>
+        <?php
+        include("./include/header.php");
+        ?>
 
         <div id="content">
             <div class="container">
                 <div class="row">
-                    <section class="content__left col-md-8">
+                    <section class="content__left col-xl-8">
                         <div class="block new_text">
                             <a href="#">Всі пости</a>
                             <h3>Нові пости в блозі</h3>
@@ -82,8 +20,7 @@
 
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -99,8 +36,7 @@
                                     </article>
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -116,8 +52,7 @@
                                     </article>
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -133,8 +68,7 @@
                                     </article>
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -150,8 +84,7 @@
                                     </article>
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -167,8 +100,7 @@
                                     </article>
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -194,8 +126,7 @@
 
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -211,8 +142,7 @@
                                     </article>
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -228,8 +158,7 @@
                                     </article>
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -255,8 +184,7 @@
 
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -272,8 +200,7 @@
                                     </article>
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -289,8 +216,7 @@
                                     </article>
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -306,8 +232,7 @@
                                     </article>
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -323,8 +248,7 @@
                                     </article>
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -340,8 +264,7 @@
                                     </article>
 
                                     <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
+                                        <div class="article__image" style="background-image: url('./img/black-photo.jpg');">
                                         </div>
                                         <div class="article__info">
                                             <a href="./article.html">Розробка на Node.JS</a>
@@ -362,174 +285,18 @@
 
 
                     </section>
+                    <?php
+                    include("./include/sidebar.php");
+                    ?>
 
-                    <section class="content__right col-md-4">
-                        <div class="block">
-                            <h3>Ми знаємо</h3>
-                            <div class="block__content">
-                                <script type="text/javascript"
-                                    src="//ra.revolvermaps.com/0/0/6.js?i=02op3nb0crr&amp;m=7&amp;s=320&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80"
-                                    async="async"></script>
-                            </div>
-                        </div>
-
-                        <div class="block">
-                            <h3>Топ прочитаних статей</h3>
-                            <div class="block__content">
-                                <div class="articles articles__vertical">
-                                    <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
-                                        </div>
-
-                                        <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
-                                            <div class="article__info__meta">
-                                                <small>Категорія: <a href="#">Музика</a></small>
-                                            </div>
-                                            <div class="article__info__preview">Lorem ipsum dolor sit amet consectetur.
-                                            </div>
-                                        </div>
-                                    </article>
-
-                                    <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
-                                        </div>
-
-                                        <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
-                                            <div class="article__info__meta">
-                                                <small>Категорія: <a href="#">Музика</a></small>
-                                            </div>
-                                            <div class="article__info__preview">Lorem ipsum dolor sit amet consectetur.
-                                            </div>
-                                        </div>
-                                    </article>
-
-                                    <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
-                                        </div>
-
-                                        <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
-                                            <div class="article__info__meta">
-                                                <small>Категорія: <a href="#">Музика</a></small>
-                                            </div>
-                                            <div class="article__info__preview">Lorem ipsum dolor sit amet consectetur.
-                                            </div>
-                                        </div>
-                                    </article>
-
-                                    <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
-                                        </div>
-
-                                        <div class="article__info">
-                                            <a href="./article.html">Розробка на Node.JS</a>
-                                            <div class="article__info__meta">
-                                                <small>Категорія: <a href="#">Музика</a></small>
-                                            </div>
-                                            <div class="article__info__preview">Lorem ipsum dolor sit amet consectetur.
-                                            </div>
-                                        </div>
-                                    </article>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="block">
-                            <h3>Коментарі</h3>
-                            <div class="block__content">
-                                <div class="articles articles__vertical">
-                                    <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
-                                        </div>
-
-                                        <div class="article__info">
-                                            <a href="#">Johnny Flame</a>
-                                            <div class="article__info__meta">
-                                                <small>Назва статі: <a href="./article.html">Розробка на Node.JS
-                                                    </a></small>
-                                            </div>
-                                            <div class="article__info__preview">Lorem ipsum dolor sit amet consectetur.
-                                            </div>
-                                        </div>
-                                    </article>
-
-                                    <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
-                                        </div>
-
-                                        <div class="article__info">
-                                            <a href="#">Johnny Flame</a>
-                                            <div class="article__info__meta">
-                                                <small>Назва статі: <a href="./article.html">Розробка на Node.JS
-                                                    </a></small>
-                                            </div>
-                                            <div class="article__info__preview">Lorem ipsum dolor sit amet consectetur.
-                                            </div>
-                                        </div>
-                                    </article>
-
-                                    <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
-                                        </div>
-
-                                        <div class="article__info">
-                                            <a href="#">Johnny Flame</a>
-                                            <div class="article__info__meta">
-                                                <small>Назва статі: <a href="./article.html">Розробка на Node.JS
-                                                    </a></small>
-                                            </div>
-                                            <div class="article__info__preview">Lorem ipsum dolor sit amet consectetur.
-                                            </div>
-                                        </div>
-                                    </article>
-
-                                    <article class="article">
-                                        <div class="article__image"
-                                            style="background-image: url('./img/black-photo.jpg');">
-                                        </div>
-
-                                        <div class="article__info">
-                                            <a href="#">Johnny Flame</a>
-                                            <div class="article__info__meta">
-                                                <small>Назва статі: <a href="./article.html">Розробка на Node.JS
-                                                    </a></small>
-                                            </div>
-                                            <div class="article__info__preview">Lorem ipsum dolor sit amet consectetur.
-                                            </div>
-                                        </div>
-                                    </article>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
                 </div>
             </div>
         </div>
 
+        <?php
+        include("./include/footer.php");
+        ?>
 
-        <footer id="footer">
-            <div class="container">
-                <div class="footer__logo">
-                    <h1>Блог IT_Мінімаліста</h1>
-                </div>
-                <nav class="footer__menu">
-                    <ul>
-                        <li><a href="#">Головна</a></li>
-                        <li><a href="#">Про мене</a></li>
-                        <li><a href="#">Instagram</a></li>
-                        <li><a href="#">Правовласникам</a></li>
-                    </ul>
-                </nav>
-            </div>
-        </footer>
     </div>
 
 </body>

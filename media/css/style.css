@@ -54,7 +54,7 @@ h6 {
 }
 
 #footer .footer__menu ul li a, .header__top .header__top__menu ul li a {
-    padding: 25px;
+    padding: 0 15px;
     color: #000;
     font-size: 20px;
     text-decoration: none;
@@ -289,4 +289,38 @@ h6 {
 .form input[type="submit"].form__control:hover{
     opacity: 1;
 }
+
+
+.photo__content{
+    max-width: 100%;
+    max-height: 700px;
+}
+
+
+/* RESPONSIVE  */
+@media (max-width: 1200px) {
+    .articles.articles__horizontal .article{
+        width: 100%;
+    }
+    .header__bottom nav ul>li>a{
+        padding: 0 15px;
+        font-size: 18px;
+    }
+    #footer .footer__menu ul li a, .header__top .header__top__menu ul li a{
+        padding: 0 10px
+    }
+    .content__right .block:first-child .block__content{
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 990px){
+    .header__bottom nav ul>li>a {
+        padding: 0 10px;
+        font-size: 16px;
+    }
+}
+
+
 
