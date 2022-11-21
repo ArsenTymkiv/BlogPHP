@@ -5,7 +5,7 @@ $config = array(
          'host' => 'localhost',
          'user' => 'root',
         'password' => 'password',
-        'dbname' => 'test_blog'
+        'dbname' => 'it_blog'
 )
 );
 require_once ('db.php');
