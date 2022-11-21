@@ -32,12 +32,12 @@ var_dump($result);
                                             <div class="article__image" style="background-image: url('./img/<?php echo $articles["img"] ?>');">
                                             </div>
                                             <div class="article__info">
-                                                <a href="./article.php"><?php echo substr($articles["title"], 0, 15);?></a>
+                                                <a href="./article.php"><?php echo substr($articles["title"], 0, 20)."...";?></a>
                                                 <div class="article__info__meta">
                                                     <small>Категорія: <a href="#">Програмування</a></small>
 
                                                 </div>
-                                                <div class="article__info__preview"><?php echo substr($articles["text"], 0, 100);?> ...
+                                                <div class="article__info__preview"><?php echo substr($articles["text"], 0, 100);?>...
                                                 </div>
                                             </div>
                                         </article>
